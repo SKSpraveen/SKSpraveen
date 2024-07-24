@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi 👋, I'm Sasindu Praveen</b></h1>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Sasindu;I+am+a+SLIIT+campus+student;Frontend+Dev;Backend+Dev;+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Sasindu;I+am+a+SLIIT+campus+student;Frontend+Dev;Backend+Dev"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skspraveen&label=Profile%20views&color=0e75b6&style=flat" alt="skspraveen" /> </p>  
 
